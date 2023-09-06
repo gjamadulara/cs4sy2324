@@ -1,4 +1,4 @@
-public class Main {
+public class Ph18_Exercise01_Madulara {
   public static void main(String[] args) {
     String name1 = "Fischl";
     int level1 = 75;
