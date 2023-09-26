@@ -1,4 +1,4 @@
-package exercise4rev2;
+package Ph18_Exercise04_Madulara;
 
 public class Move {
     private final String name;
