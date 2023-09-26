@@ -2,11 +2,11 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package exercise4rev2;
+package Ph18_Exercise04_Madulara;
 
 import java.util.Scanner;
 
-public class Exercise4rev2 {
+public class Ph18_Exercise04_Madulara {
 
     public static void main(String[] args) {
         Move rock = new Move("Rock");
